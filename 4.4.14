@@ -1,0 +1,6 @@
+Coding a Stack
+
+Top ->[] -> [] -> [] -> [] -> [] -> null
+
+-Don't need a dummy node because you only ever remove or insert from the top
+

@@ -1,0 +1,24 @@
+Stack Applications!
+
+HP calculators 
+postfix notation//reverse polar notation
+a b +
+
+IT'S A STACK!!
+
+3 enter 4 enter +
+
+_
+4      
+_  then for plus you take off the 3 and 4 and add them
+3
+_
+s
+
+
+get input
+if it's a number, push it on the stack
+if it's an operator pop top 2 items calc the result and push the result back onto the stack
+
+**MINI PRJECT**
+RPN calculator

@@ -1,0 +1,18 @@
+		Building Data Structures from Linked Lists
+
+
+HTTP Proxy: 149.89.1.30
+Port: 3128
+
+Stack: Add and remove from the top
+	Last in first out data structure (LIFO)
+
+Java's Stack:
+s.push(x) ==> adding an item onto the stack
+x = s.pop() ==> removing the top item from stack and return it
+constructor
+x = peek() ==> returns but doesn't remove the top element
+
+x = s.pop |
+          | together, they're the same as peek
+s.push(x) |
