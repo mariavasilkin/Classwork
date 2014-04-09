@@ -1,0 +1,14 @@
+Data Structures--> FIFO (First in, first out)
+
+FIFO used in queues
+q.enqueue(x)
+	add x to the back of the queue
+	java calls it add(E e)
+q.dequeue()
+	remove and return the item at the front of the queue
+	java calls it remove()
+q.isEmpty()
+q.front()
+	returns but does not remove the item at the front
+
+-java has a built in queue interface

@@ -1,0 +1,10 @@
+Data Structures--> FIFO (First in, first out)
+
+FIFO used in queues
+q.enqueue(x)
+	add x to the back of the queue
+q.dequeue()
+	remove and return the item at the fron tof the queue
+q.isEmpty()
+q.front()
+	returns but does not remove the item at the front
