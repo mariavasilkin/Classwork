@@ -1,0 +1,10 @@
+Coding Queues-- Twitch Style
+
+Empty list-- head--> null
+	     tail--> null
+
+ H                         T
+ 
+ |                         |
+ v                         v  
+[ ] --> [  ] --> [  ] --> [  ]
